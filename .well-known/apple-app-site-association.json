@@ -1,0 +1,4 @@
+{
+  "redirect": "/.well-known/apple-app-site-association",
+  "contentType": "application/json"
+}
